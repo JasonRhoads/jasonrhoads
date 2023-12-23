@@ -1,9 +1,9 @@
 # Jason Rhoads
 
 ## Other Work
-[CodePen](https://codepen.io/jasonrhoads1)
+[CodePen](https://codepen.io/jasonrhoads1){:target="_blank"}
 
-[Code Sand Box](https://codesandbox.io/u/jasonrhoads)
+[Code Sand Box](https://codesandbox.io/u/jasonrhoads){:target="_blank"}
 
 ## Learn Enough Certificates
 <a href="https://www.learnenough.com/certificates/Jasonrhoads"><img src="https://www.learnenough.com/certificates/Jasonrhoads/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/Jasonrhoads"><img src="https://www.learnenough.com/certificates/Jasonrhoads/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/Jasonrhoads"><img src="https://www.learnenough.com/certificates/Jasonrhoads/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/Jasonrhoads"><img src="https://www.learnenough.com/certificates/Jasonrhoads/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a><a href="https://www.learnenough.com/certificates/Jasonrhoads"><img src="https://www.learnenough.com/certificates/Jasonrhoads/css-and-layout-tutorial.svg" alt="Certificate of Completion for Learn Enough CSS &amp; Layout"></a><a href="https://www.learnenough.com/certificates/Jasonrhoads"><img src="https://www.learnenough.com/certificates/Jasonrhoads/javascript-tutorial.svg" alt="Certificate of Completion for Learn Enough JavaScript"></a><a href="https://www.learnenough.com/certificates/Jasonrhoads"><img src="https://www.learnenough.com/certificates/Jasonrhoads/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a><a href="https://www.learnenough.com/certificates/Jasonrhoads"><img src="https://www.learnenough.com/certificates/Jasonrhoads/ruby-on-rails-6th-edition-tutorial.svg" alt="Certificate of Completion for The Ruby on Rails Tutorial, 6th Ed."></a>
