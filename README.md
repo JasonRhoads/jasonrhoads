@@ -1,7 +1,7 @@
 # Jason Rhoads
 
 ## Other Work
-Due to GitHub not allowing a new tab to be opened. Please hold down ctrl when you clikc on the link. That will open it in a new tab instead of being directed away from my profile.
+Due to GitHub not allowing a new tab to be opened. Please hold down ctrl when you click on the link. That will open it in a new tab instead of being directed away from my profile.
 
 <a target="_blank" href="https://codepen.io/jasonrhoads1" rel="noopener">CodePen</a>
 
